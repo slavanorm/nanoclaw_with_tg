@@ -1,3 +1,26 @@
+> **Fork** with refactor and Telegram support.
+>
+> ```
+>  164 src/agent.ts
+>   30 src/channel.ts
+>   53 src/config.ts
+>  526 src/container-runner.ts
+>  143 src/container.ts
+>  589 src/db.ts
+>  300 src/group-queue.ts
+> ```
+> **`  79 src/index.ts`**
+> ```
+>    6 src/logger.ts
+>  413 src/mount-security.ts
+>  192 src/task-scheduler.ts
+>   58 src/telegram.ts
+>   75 src/types.ts
+>   90 src/whatsapp-auth.ts
+>   92 src/whatsapp.ts
+> 2810 total
+> ```
+
 <p align="center">
   <img src="assets/nanoclaw-logo.png" alt="NanoClaw" width="400">
 </p>
